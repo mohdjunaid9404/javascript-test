@@ -1,3 +1,3 @@
 let name = "junaid";
-let lastName = "singh";
+let lastName = "siddiqui";
 console.log(name + " " + lastName);
